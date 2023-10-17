@@ -1,0 +1,21 @@
+body{background-color: antiquewhite;}
+.mylove{
+    height: 100%;
+    width: 100%;
+    border: solid yellow;
+    border-width: 20px;
+    margin: 0px;
+    padding: 10px;
+}
+.first{
+    height: 50%;
+    width: 50%;
+    margin: 20%;
+    border: yellow;
+border-width: 10px;
+
+}
+p{
+    text-align: center;
+    color: blueviolet;
+}
